@@ -7,7 +7,8 @@
       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/3.jpg?raw=true",
       "purshased_at":"June 10, 2021",
 	  "price": 5.50,
-	  "quantity":1
+	  "quantity":1,
+	  "active": true
    },
    {
       "uuid":"2",
@@ -17,7 +18,8 @@
       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/2.jpg?raw=true",
       "purshased_at":"June 10, 2021",
 	  "price": 4.50,
-	  "quantity":1
+	  "quantity":1,
+	  "active": true
    },
    {
       "uuid":"6",
@@ -27,7 +29,8 @@
       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/6.jpg?raw=true",
       "purshased_at":"June 10, 2021",
 	  "price": 10.50,
-	  "quantity":1
+	  "quantity":1,
+	  "active": false
    },
    {
       "uuid":"4",
@@ -37,7 +40,8 @@
       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/4.jpg?raw=true",
       "purshased_at":"June 10, 2021",
 	  "price": 100.50,
-	  "quantity":1
+	  "quantity":1,
+	  "active": true
    },
    {
       "uuid":"1",
@@ -47,6 +51,7 @@
       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/1.jpg?raw=true",
       "purshased_at":"June 22, 2021",
 	  "price": 4,
-	  "quantity":1
+	  "quantity":1,
+	  "active": true
    }
 ]
